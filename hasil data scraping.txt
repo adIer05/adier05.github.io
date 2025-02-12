@@ -1,0 +1,15 @@
+Heading Utama: Annisa Reida Kamilaini
+H1: Annisa Reida Kamilaini
+H2: Mahasiswa
+H3: Tentang Saya
+H3: Pengalaman
+H3: Riwayat Pendidikan
+H3: Hubungi Saya
+H4: My Location
+Paragraf 1 dalam Tentang:
+          Halo, saya adalah seorang Mahasiswa D4-Teknik Informatika Politeknik Negeri Bandung. Saya orang yang antusias, dapat diandalkan, bertanggung jawab, dan pekerja keras.  
+          Saya dapat tetap tenang dalam situasi apa pun dan mudah beradaptasi dengan lingkungan baru. Saya percaya diri untuk bekerja dengan baik dan mematuhi tenggat waktu yang ketat.
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #kontak - Kontak
